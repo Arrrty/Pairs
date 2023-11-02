@@ -152,7 +152,7 @@ function win() {
     menu();
   });
 
-  span.textContent = 'ты пидор!';
+  span.textContent = 'Проздравляю!';
   span.classList.add('win');
 
   play.innerHTML = '';
